@@ -1,0 +1,66 @@
+[
+    {
+      "title": " BLUE PRISM INTELLIGENT AUTOMATION VIRTUAL INTERNSHIP ",
+      "category": "Virtual Internship",
+      "date": "02 Nov, 2023",
+      "image": "/images/blog-1.jpg",
+      "description": "Completed an AICTE-endorsed internship, mastering Blue Prism’s tools to automate and streamline complex business processes."
+    },
+    {
+      "title": "CYBERSECURITY FUNDAMENTALS",
+      "category": "Virtual Internship",
+      "date": "29 Dec, 2023",
+      "image": "/images/blog-2.jpg",
+      "description": "Acquired foundational cybersecurity knowledge through an IBM-certified course, focusing on digital risk management and secure practices."
+    },
+    {
+        "title": "NASA INTERNATIONAL SPACE APP CHALLANGE 2022",
+        "category": "Hackathon",
+        "date": "1-2 Oct, 2022",
+        "image": "/images/blog-8.jpg",
+        "description": "Engaged in NASA’s international hackathon, crafting creative solutions under the theme 'Make Space,'' focused on broadening access to space and solving challenges related to space exploration and sustainability."
+      },
+    {
+      "title": " MICROCHIP EMBEDDED SYSTEM DEVELOPER VIRTUAL INTERNSHIP",
+      "category": "Virtual Internship",
+      "date": "17 Jul, 2023",
+      "image": "/images/blog-3.jpg",
+      "description": "Developed practical skills in embedded systems design via an AICTE-accredited program, working extensively with microchip technology."
+    },
+    {
+        "title": "FORTINET NETWORK SECURITY ASSOCIATE VIRTUAL INTERNSHIP ",
+        "category": "Virtual Internship",
+        "date": "12 May, 2024",
+        "image": "/images/blog-10.jpg",
+        "description": "Gained expertise in network security fundamentals with Fortinet technologies, certified through AICTE to strengthen digital defenses."
+      },
+    {
+      "title": "AI-ML VIRTUAL INTERNSHIP ",
+      "category": "Virtual Internship",
+      "date": "04 Apr, 2023",
+      "image": "/images/blog-4.jpg",
+      "description": "Completed advanced AI and machine learning training with AWS, applying cloud-based solutions to real-world challenges in AI/ML."
+    },
+    {
+      "title": "ACADEMIC PROCESS MINING FUNDAMENTALS",
+      "category": "Virtual Internship",
+      "date": "15 Sept, 2022",
+      "image": "/images/blog-5.jpg",
+      "description": "Explored core concepts of process mining with Celonis tools to enhance business efficiency through data-driven workflow optimization."
+    },
+    {
+        "title": "NASA INTERNATIONAL SPACE APP CHALLANGE 2024",
+        "category": "Hackathon",
+        "date": "5-6 Oct, 2024",
+        "image": "/images/blog-6.jpg",
+        "description": "Participated in NASA’s global hackathon, exploring innovative solutions and developing projects aligned with the theme 'The Sun Touches Everything' to address real-world challenges inspired by solar influence on Earth and beyond."
+      },
+      {
+        "title": "SMART INDIA HACKATHON PRE-QUALIFIERS",
+        "category": "Hackathon",
+        "date": "5-6 Sept, 2024",
+        "image": "/images/blog-9.jpg",
+        "description": "Participated in SIH pre-qualifiers with a focus on robotics, designing an automated water surface cleaning robot to address environmental pollution through efficient, autonomous waste collection."
+      }
+  ]
+  
